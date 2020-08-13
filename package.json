@@ -1,6 +1,6 @@
 {
   "name": "avax-mnemonic-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple script to generate 24 word mnemonic phrases.",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,10 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ava-labs/AVAX-mnemonic-generator/issues"
+  },
+  "engines": {
+    "node": ">=12.13.1",
+    "npm": ">=6.12.1"
   },
   "homepage": "https://github.com/ava-labs/AVAX-mnemonic-generator#readme",
   "dependencies": {
